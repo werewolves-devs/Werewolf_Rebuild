@@ -1,0 +1,1 @@
+# This folder takes care of database management.
